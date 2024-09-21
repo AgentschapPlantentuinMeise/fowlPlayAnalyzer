@@ -2,6 +2,8 @@
 
 This notebook provides an analysis of sex ratios in bird species across Europe, using data downloaded from the Global Biodiversity Information Facility (GBIF). The dataset includes over 4 million occurrence records from nearly 5,000 datasets provided by 230 publishers. This analysis focuses on a specific subset of the data, filtering records based on quality checks and examining patterns in sex ratios over time and space.
 
+Also see: Groom, Q. J., & Trekels, M. (2024, July 22). An analysis of sex ratios using a biodiversity data cube. [https://doi.org/10.37044/osf.io/9kcfx](https://doi.org/10.37044/osf.io/9kcfx)
+
 ## Overview
 
 The notebook performs the following tasks:
